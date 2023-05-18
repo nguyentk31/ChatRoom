@@ -1,0 +1,17 @@
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\bin\Debug\net7.0-windows\Client.exe
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\bin\Debug\net7.0-windows\Client.deps.json
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\bin\Debug\net7.0-windows\Client.dll
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\bin\Debug\net7.0-windows\Client.pdb
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.Form1.resources
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.csproj.GenerateResource.cache
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.dll
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\refint\Client.dll
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.pdb
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+D:\WorkSpace\VSCode\Csharp\ChatRoom\Client\obj\Debug\net7.0-windows\ref\Client.dll
